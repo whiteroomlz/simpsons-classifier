@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpsonsClassifier</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="import_image_label">Import image</string>
+    <string name="default_label">Homer Simpson</string>
+    <string name="image_view_description">One simpson person\'s portrait</string>
+</resources>

@@ -28,3 +28,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Python cache
+__pycache__/
+
+# Train-test files
+*.jpg
+
+# Pytorch pretrained models
+*.pt

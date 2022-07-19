@@ -1,2 +1,2 @@
-# SimpsonsClassifier
- :iphone: A simple Android app for classifying the Simpsons characters.
+# simpsons-classifier
+ :iphone: A simple android app for classifying the Simpsons characters.
